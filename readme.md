@@ -2,18 +2,12 @@
 
 ## Missions & Activities:
 
-### Activity 1 – ~30 minutes
-- **Peer Review and Validation of Genetic Algorithms (Halfday 3-4)**: Work in pairs to review and compare your code and results. Exchange the outcome of the previous activity and discuss your approach. Write together 1-2 slides with a list of the key-differences concerning:
-    - The result you had
-    - The method you used to get to that results
-- **Consolidation by the Professor**: After peer review, the professor will provide further clarification and consolidation of the concepts.
-
-### Activity 2
+### Activity 1
 - **Problem**: Find the best hyperparameters for SVM using Genetic Algorithms (GA).
 - **Hint**: Consider which metrics to use when comparing GA with grid search.
 - **Tools**: DEAP or pure Python.
 
-### Activity 3
+### Activity 2
 - **Weekly Evaluation (Grade 1-6)**: This evaluation will be based on:
   - the code provided at the end of the week (activity 2), including your comments. The code should integrate GA in your SVM application. Add markdown cells at the end of the notebook to address the questions below.
   - questionnaire concerning the theorethical concepts investigated this week
