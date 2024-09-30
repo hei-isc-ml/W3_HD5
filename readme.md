@@ -4,7 +4,7 @@
 
 ### Activity 1
 - **Problem**: Find the best hyperparameters for SVM using Genetic Algorithms (GA).
-- **Hint**: Consider which metrics to use when comparing GA with grid search.
+- **Hint**: Consider which metrics to use when comparing GA with grid search. The comparison should not be limited to classification performance metrics.
 - **Tools**: DEAP or pure Python.
 
 ### Activity 2
@@ -18,8 +18,9 @@
 
 ## Tasks – Classification and Model Tuning Using SVM and GA
 
-1. **Implement GA**: Use GA to find the best hyperparameters for your SVM developed in week 3, day 1. Suggestion: import your old jupyter notebook. *Optionally*, change dataset. Instead of MNIST use the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 
-2. **Compare GA’s Performance**: Evaluate the performance of GA versus grid search.
+1. **Improve your SVM code**: Import your old jupyter notebook. Implement the suggestions you received during from the peer reiew. *Optionally*, change dataset. Instead of MNIST use the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 
+2. **Implement GA**: Use GA to find the best hyperparameters for your SVM developed in week 3, day 1.  
+3. **Compare GA’s Performance**: Evaluate the performance of GA versus grid search.
 
 ## Questions:
 - Is GA performing better than grid search in your case? In what terms? Why?
